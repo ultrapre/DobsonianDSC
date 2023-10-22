@@ -5,7 +5,7 @@ ESP32开发版WIFI+蓝牙2合1双核CPU低功耗2.4GHz 30PIN（CP2102驱动）TY
 
 Encode Success:
 
-安装CP210X Windows 驱动
+安装[CP210X Windows 驱动](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip)
 
 Arduino IDE 2.2.1
 
