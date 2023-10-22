@@ -1,7 +1,7 @@
 # DobsonianDSC
-[[English]](https://github.com/vlaate/DobsonianDSC)
-[[Español]](https://github.com/vlaate/DobsonianDSC/blob/master/README.es.md)
-[[简体中文]](https://github.com/vlaate/DobsonianDSC/blob/master/README.zh.md)
+[[English]](README.md)
+[[Español]](README.es.md)
+[[简体中文]](README.zh.md)
 
 Amateur astronomers want to know where their telescope is pointing at. For this reason, many commercial telescopes (like the Orion IntelliScope) come equipped with "push to" features, often based on high precision optical rotary encoders attached to the telescope mount, and a hand control device with a database of coordinates of thousands of stars and other sky objects.
 
