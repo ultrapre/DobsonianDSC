@@ -11,3 +11,7 @@ Arduino IDE 2.2.1
 
 ArduinoJson-v6.18.0 （解压到C:\Users\Adam\Documents\Arduino\libraries）
 
+
+问题2：
+
+不支持Alt时怎么弄？
